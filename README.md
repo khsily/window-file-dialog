@@ -1,6 +1,7 @@
 # Window File Dialog
 
 A simple nodejs project to open file dialog. (windows only / linux,mac not supported)
+
 Powered by PowerShell.
 
 ![example](./capture.PNG)
