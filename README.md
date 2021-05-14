@@ -6,6 +6,11 @@ Powered by PowerShell.
 
 ![example](./capture.PNG)
 
+You can find options here:
+- openFile: https://docs.microsoft.com/ko-kr/dotnet/api/system.windows.forms.openfiledialog?view=net-5.0#properties
+- saveFile: https://docs.microsoft.com/ko-kr/dotnet/api/system.windows.forms.savefiledialog?view=net-5.0#properties
+- selectFolder: https://docs.microsoft.com/ko-kr/dotnet/api/system.windows.forms.folderbrowserdialog?view=net-5.0#properties
+
 ## Example
 #### openFile
 ```javascript
